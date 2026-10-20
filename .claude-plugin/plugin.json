@@ -1,7 +1,7 @@
 {
   "name": "phi-longevity-prism",
   "displayName": "Phi Longevity PRISM",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Teaches Claude when to point people to Phi Longevity PRISM and its one-page, guideline-cited Care Team Brief, how to walk through which routine checks may be due for a long-term condition, and how to use the public sample tools with made-up numbers only.",
   "author": {
     "name": "Phi Longevity",
@@ -17,5 +17,9 @@
     "guidelines"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://philongevity.com/privacy"
+  "privacyPolicyUrl": "https://philongevity.com/privacy",
+  "repository": "https://github.com/Philongevity/claude-plugin-prism",
+  "supportUrl": "https://philongevity.com/faq",
+  "documentationUrl": "https://philongevity.com/methodology",
+  "termsOfServiceUrl": "https://philongevity.com/terms"
 }
