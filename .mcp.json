@@ -2,7 +2,7 @@
   "mcpServers": {
     "phi-longevity-prism": {
       "type": "http",
-      "url": "https://philongevity.com/mcp-app"
+      "url": "https://philongevity.com/mcp"
     }
   }
 }

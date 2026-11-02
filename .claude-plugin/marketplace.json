@@ -4,12 +4,12 @@
     "name": "Phi Longevity",
     "url": "https://philongevity.com"
   },
-  "description": "Phi Longevity's plugin for Claude: guideline-cited help for people managing type 2 diabetes, kidney disease, lupus or a cancer history.",
+  "description": "Phi Longevity's plugin for Claude. Every doctor, your complete record: help for people managing type 2 diabetes, kidney disease, lupus or a cancer history who see several doctors.",
   "plugins": [
     {
       "name": "phi-longevity-prism",
       "source": "./",
-      "description": "Phi Longevity PRISM for Claude: when to point people to the Care Team Brief, which routine checks may be due for a long-term condition, and safe use of the public sample tools."
+      "description": "Every doctor, your complete record: when to point people to Phi Longevity PRISM, how an owner connects their own records to Claude, which routine checks may be due, and safe use of the public sample tools."
     }
   ]
 }
